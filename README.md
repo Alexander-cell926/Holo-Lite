@@ -7,7 +7,7 @@ Holo-Lite is a "Forgotten & Undiscovered" approach to AI. It uses **Hyperdimensi
 ## Files
 * **`demo_toy.py`**: A minimal, <50 line script. Run this to see the magic instantly. No complex setup.
 * **`holo_brain.py`**: The robust engine. Contains the `HoloBrain` class with methods for `save()`, `load()`, `binarize`, and persistent memory. Use this for building real apps.
-
+Youtube URL:https://youtu.be/vU5CJ2vGKXI?si=Z-sot1j0mAJ3AEJq
 ## Quick Start
 1.  Run the toy:
     ```bash
@@ -26,3 +26,4 @@ Holo-Lite is a "Forgotten & Undiscovered" approach to AI. It uses **Hyperdimensi
 * **One-Shot:** Learns from single examples.
 
 * **Transparent:** No black-box weights.
+
