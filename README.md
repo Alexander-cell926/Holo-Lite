@@ -15,7 +15,7 @@ Holo-Lite is a "Forgotten & Undiscovered" approach to AI. It uses **Hyperdimensi
     ```
 2.  Import the engine for your own project:
     ```python
-    from holo_brain_complex import HoloBrain
+    from holo_brain.py import HoloBrain
     brain = HoloBrain()
     brain.learn("cat", "meow furry kitty")
     print(brain.predict("meow"))
@@ -24,4 +24,5 @@ Holo-Lite is a "Forgotten & Undiscovered" approach to AI. It uses **Hyperdimensi
 ## Why HDC?
 * **Fast:** Runs on CPU (Intel i5/M1 friendly).
 * **One-Shot:** Learns from single examples.
+
 * **Transparent:** No black-box weights.
