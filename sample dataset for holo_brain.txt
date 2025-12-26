@@ -1,0 +1,17 @@
+1.Run it: python holo_brain.py
+
+It starts smart: It already knows English, Spanish, and Python because of the "Bootstrap" function I added.
+
+Test it: Type def main(): return 0 -> It will say PYTHON.
+
+Teach it:
+
+2.Type: /train Japanese Konnichiwa watashi wa ai desu
+
+3.Type: /train Japanese Arigato gozaimasu
+
+4.Now test: Konnichiwa -> It will say JAPANESE.
+
+5.Save it: Type /save. It creates a file. Next time you run it, it remembers Japanese.
+
+This is a fully functional, persistent AI engine in a single file. Enjoy experimenting!
